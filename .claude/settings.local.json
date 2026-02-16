@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /b \"C:\\\\Users\\\\trimu\\\\OneDrive\\\\BigData_Spark_MLlib\")",
+      "Bash(unzip:*)"
+    ]
+  }
+}
